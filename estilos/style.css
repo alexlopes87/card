@@ -53,7 +53,6 @@ main {
 }
 
 .front {
-    transform: rotateY(0);
     background-color: #272727;
     border: 5px solid #3f3e3e;
 }
